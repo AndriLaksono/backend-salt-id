@@ -8,5 +8,5 @@
 ### Usage
 - clone this repo
 - run command `composer install && npm i`
-- php artisan migrate
-- php artisan serve
+- `php artisan migrate`
+- `php artisan serve`
